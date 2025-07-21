@@ -23,5 +23,4 @@
 - Django - [Python Django - The Practical Guide](https://www.udemy.com/course/python-django-the-practical-guide/?couponCode=LETSLEARNNOW)
 - Django Rest Framework - [Build REST APIs with Django REST Framework and Python](https://www.udemy.com/course/django-rest-framework/?couponCode=LETSLEARNNOW)
 - Postgresql - [PostgreSQL Database Administration on Windows/Linux](https://www.udemy.com/course/postgresql-v12-database-administration-on-windows-and-linux/?srsltid=AfmBOoogwJfddp8ecR2MG4JHdbrkewNAVkijkZ8CNgERSBxd6D4IlJ6v)
-postgres?
 
