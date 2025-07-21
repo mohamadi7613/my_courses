@@ -17,6 +17,8 @@
 - python  - [Python for Everybody Specialization](https://www.coursera.org/specializations/python) 
 - Odoo  - [The Complete Odoo 16/17 Technical Course: From Zero to Hero](https://www.udemy.com/course/the-complete-odoo-technical-course-2023-from-zero-to-hero/?couponCode=KEEPLEARNING) 
 - React  - [Udemy – React + Redux – The beginner guide. (+ Typescript )  ](https://www.udemy.com/course/react-js-redux-guide-du-debutant/?couponCode=KEEPLEARNING) 
+- Django - [Python Django - The Practical Guide](https://www.udemy.com/course/python-django-the-practical-guide/?couponCode=LETSLEARNNOW)
+- Django Rest Framework - [Build REST APIs with Django REST Framework and Python](https://www.udemy.com/course/django-rest-framework/?couponCode=LETSLEARNNOW)
 
 postgres?
 
