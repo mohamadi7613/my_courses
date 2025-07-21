@@ -13,6 +13,7 @@
 - JavaScript - [Full roadmap of Rocket.ir](https://roocket.ir/skills/javascript/)
 - Nodejs - [Roxo Nodejs](https://www.roxo.ir/course/zero-to-hero-nodejs)
 - React  - [Udemy – React + Redux – The beginner guide. (+ Typescript )](https://www.udemy.com/course/react-js-redux-guide-du-debutant/?couponCode=KEEPLEARNING) 
+- Nginx - [Full NGINX Tutorial - Demo Project with Node.js, Docker](https://www.youtube.com/watch?v=q8OleYuqntY)
 - Kafka  - [The Complete Apache Kafka Practical Guide](https://www.udemy.com/course/apache_kafka/?couponCode=LETSLEARNNOW) 
 - Docker  - [Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/?couponCode=KEEPLEARNING) 
 - git  - [Git from Basics to Advanced: Practical Guide for Developers](https://www.udemy.com/course/git-learnit/?srsltid=AfmBOoovvxs1bgNUPSpQl40hKquXzl5O9x1OuLCzMuiWW1LnqivvGi7m&couponCode=LETSLEARNNOW) 
@@ -23,5 +24,5 @@
 - Django - [Python Django - The Practical Guide](https://www.udemy.com/course/python-django-the-practical-guide/?couponCode=LETSLEARNNOW)
 - Django Rest Framework - [Build REST APIs with Django REST Framework and Python](https://www.udemy.com/course/django-rest-framework/?couponCode=LETSLEARNNOW)
 - Postgresql - [PostgreSQL Database Administration on Windows/Linux](https://www.udemy.com/course/postgresql-v12-database-administration-on-windows-and-linux/?srsltid=AfmBOoogwJfddp8ecR2MG4JHdbrkewNAVkijkZ8CNgERSBxd6D4IlJ6v)
-- Nginx - [Full NGINX Tutorial - Demo Project with Node.js, Docker](https://www.youtube.com/watch?v=q8OleYuqntY)
+
 
