@@ -13,6 +13,7 @@
 - JavaScript - [Full roadmap of Rocket.ir](https://roocket.ir/skills/javascript/)
 - Nodejs - [Roxo Nodejs](https://www.roxo.ir/course/zero-to-hero-nodejs)
 - React  - [Udemy – React + Redux – The beginner guide. (+ Typescript )](https://www.udemy.com/course/react-js-redux-guide-du-debutant/?couponCode=KEEPLEARNING) 
+- React - [ReactJS Tutorial for Beginners by Codeevolution Youtube channel](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - Nginx - [Full NGINX Tutorial - Demo Project with Node.js, Docker](https://www.youtube.com/watch?v=q8OleYuqntY)
 - Kafka  - [The Complete Apache Kafka Practical Guide](https://www.udemy.com/course/apache_kafka/?couponCode=LETSLEARNNOW) 
 - Docker  - [Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/?couponCode=KEEPLEARNING) 
